@@ -1,0 +1,28 @@
+- Commentaire encodage TEI:
+J'ai simplement utilisé la documentation de différents sites (http://teibyexample.org/examples/TBED00v00.htm#ex05_p5, https://en.wikipedia.org/wiki/Text_Encoding_Initiative, http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html) ainsi que des exemples (https://github.com/oeuvres) pour comprendre la structure XML spécifique au format TEI puis utilisé le validator fourni à cette adresse: http://teibyexample.org/xquery/TBEvalidator.xq afin de tout vérifier.
+
+- Transformation vers le format ePub:
+Il était plus simple et propre de partir d'un projet vierge sur Sigil, de sauver les textes depuis un docx vers une version Filtered HTML, puis de les importer dans le dossier Text de Sigil. Ensuite les textes ont été copié dans l'éditeur en ligne de LireCouleur (http://lirecouleur.arkaline.fr/web.html), puis la coloration syllabique a été collé dans Sigil. Finalement j'ai du nettoyer le code HTML des attributs et classes inutiles et terminer sur la création du fichier CSS.
+
+
+
+- Feuille de style CSS:
+Tout d'abord, l'ajout des fonts dans leur dossier, puis les appeler dans le CSS grâce à la rule @font-face.
+Ensuite, on applique le body sur l'intégralité de la page grâce à la largeur en auto et le padding à 0.
+Les blocks de titre et de textes ont été séparé dans 2 containers/div avec des classes spécifiques.
+Un peu de style est appliqué seulement sur les titres/tags h1 contenus à l'intérieur de la div chapter-title.
+La même logique est utilisée pour styliser les paragraph (tag p) à l'intérieur de la div chapter-content.
+Cette dernière est elle-même stylisée avec un margin en pourcentage afin que le texte soit toujours centré et aéré.
+Les autres propriétés sont celles créés par défaut lors de la création du TOC.
+
+
+
+- Procédure d'adaptation pour dyslexiques:
+L'ajout de la font OpenDyslexic 3, coloration syllabique grâce à LireCouleur, espacement des lignes, des mots et des lettres dans le texte, légère coloration de l'arrière-plan du body.
+
+
+
+- Possibilités offertes:
+L'utilisation de multimédias tel que le son ou la vidéo dans les dernière version de l'ePub permettent déjà une adaptabilité plus poussée.
+Les AudioBooks étant déjà une alternative.
+Les eBooks FROG sont très simples et complet à utiliser.
