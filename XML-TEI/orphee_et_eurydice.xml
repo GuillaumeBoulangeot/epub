@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="orphee_et_eurydice" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Orphée et Eurydice</title>
+        <author key="Violaine Troffigué">Violaine Troffigué</author>
+      </titleStmt>
+      <publicationStmt>
+      <p>Edité par Circonflexe, le 13 Mars 2018</p>
+      </publicationStmt>
+     <sourceDesc>
+        <bibl>Violaine Troffigué, <title>Orphée et Eurydice</title>, illustrations par Thomas Tessier</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <creation>
+        <date when="2018"/>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+        <head type="h1">Orphée et Eurydice<lb/></head>
+        <p>Orphée avait reçu de sa mère le don merveilleux de la musique, alors les dieux lui avaient fait cadeau d'une lyre. Depuis, il jouait de l'instrument au gré de ses envies ou de sa mélancolie, pour le plus grand plaisir des êtres qui l'entouraient.
+          <lb/>Le poète n'avait aucun ennemi, pas même les bêtes féroces : charmées, elles finissaient toujours par s'étendre à ses pieds. Bien sûr, aucune jeune fille ne pouvait résister aux notes tendres et apaisantes que faisait naître Orphée, mais aucune ne trouvait grâce à ses yeux, jusqu'au jour où il rencontra l'envoûtante Eurydice. Leur amour était si profond et si pur qu'ils décidèrent très rapidement de se marier. Mais ce bonheur fut de courte durée…</p>
+        <p rend="left">
+          <graphic url="../Images/image001.png"/>
+        </p>
+        <p>Le mariage fut une fête pour tous les invités, chacun se réjouissant du bonheur des jeunes époux. Mais tandis qu'elle prenait l'air avec ses amies, Eurydice fut mordue par un serpent, et dans la prairie résonnèrent les cris des jeunes filles épouvantées.
+          <lb/>Bientôt, Orphée parvint auprès de sa bien-aimée, inanimée. Le visage du jeune homme était transformé ; il ne pouvait laisser échapper ni larme ni cri tant sa douleur était grande. Comment pouvait-il perdre son épouse le jour même de leurs noces ? Et comment pouvait-il vivre sans celle qu'il aimait avec passion ?
+          <lb/>Cette idée lui était insupportable, aussi décida-t-il de descendre aux Enfers – le Royaume des morts – pour en ramener sa bien-aimée.</p>
+        <p rend="left">
+          <graphic url="../Images/image002.png"/>
+        </p>
+        <p>Les Enfers étaient peuplés de créatures terrifiantes, toutes soumises à Hadès, le dieu des profondeurs de la Terre. C'est lui qui régnait sur les morts, interdisant à quiconque ayant pénétré dans son royaume d'en ressortir vivant. Ce dieu était si terrible, que les vivants n'osaient pas même prononcer son nom ! L'entrée de son royaume était gardée par Cerbère. Certains disent qu'il avait trois têtes, d'autres cinquante, et d'autres encore, plus de cent ! Ce chien effroyable restait enchaîné devant la porte des Enfers pour terrifier les âmes qui cherchaient à s'y introduire. Mais Orphée n'eut aucun mal à adoucir le monstre… Une simple mélodie suffit à l'endormir, et il put passer la porte sans souci.
+          <lb/>Ce qu'il découvrit ensuite n'était guère réjouissant : les Enfers étaient un monde sombre, où coulaient de larges fleuves sans fond, un monde où les menaçantes Érinyes semaient la discorde, terrorisaient et punissaient à leur guise… Mais jamais Orphée ne fut inquiété. Il progressait, protégé par le son de sa lyre, et bientôt vit apparaître le palais d'Hadès et de son épouse Perséphone. Il entra sans peur et se présenta devant les dieux. « Que viens-tu faire ici ? » demanda Hadès de sa voix forte. Alors, pour toute réponse, Orphée entonna un chant incroyablement triste. Les notes de sa lyre emplissaient toutes les salles du palais, d'abord douces et mélancoliques, puis fortes et vibrantes, semblables à la douleur du poète. L'ensemble, bien sûr, était si enchanteur que les divinités infernales s'apaisèrent…
+          <lb/>Hadès et Perséphone consentirent à laisser partir Eurydice. Mais ils y mirent une condition : tant qu'il serait dans le Royaume des morts, Orphée ne chercherait pas à voir celle qu'il était venu quérir. Le jeune homme acquiesça avec joie et se mit en marche, suivi de sa jeune épouse.</p>
+        <p>Orphée aperçut rapidement la lumière du jour : ils allaient enfin quitter les Enfers. Mais, tandis qu'il songeait au bonheur qui les attendait, le jeune homme oublia sa promesse, et il se retourna pour contempler sa bien-aimée… Pour son plus grand malheur, car la jeune fille retomba aussitôt dans les abîmes. Orphée avait vu Eurydice pour la dernière fois ! Le pauvre garçon en fut désespéré. Il tenta à nouveau de convaincre Hadès de lui rendre son aimée. Mais il n'eut pas de seconde chance ; le dieu resta insensible à ses supplications. Le poète se retira alors dans un lieu isolé où il chanta sa peine. Et nulle jeune fille ne put jamais le consoler.</p>
+    </body>
+  </text>
+</TEI>

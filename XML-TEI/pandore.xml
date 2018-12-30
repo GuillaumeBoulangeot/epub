@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="pandore" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pandore</title>
+        <author key="Violaine Troffigué">Violaine Troffigué</author>
+      </titleStmt>
+      <publicationStmt>
+      <p>Edité par Circonflexe, le 13 Mars 2018</p>
+      </publicationStmt>
+     <sourceDesc>
+        <bibl>Violaine Troffigué, <title>Pandore</title>, illustrations par Thomas Tessier</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <creation>
+        <date when="2018"/>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+        <head type="h1">Pandore<lb/></head>
+        <p>Lorsque Zeus créa le monde, seuls les hommes peuplaient la Terre. Ils étaient protégés par Prométhée, un Titan farouchement opposé au pouvoir suprême du père des dieux. Dans la guerre qui opposait Zeus aux Titans, le rusé Prométhée parvint à dérober le feu aux divinités de l'Olympe et le donna aussitôt aux hommes. C'est ainsi qu'il subit le terrible châtiment qui l'enchaînait au Caucase.</p>
+        <p>Mais Zeus ne pouvait en rester là et voulut se venger des êtres humains en leur offrant le plus bel objet de leur désir, afin de leur inspirer passions et tourments. Il créa la première femme, aussi fascinante que capricieuse.</p>
+        <p rend="left">
+          <graphic url="../Images/image003.png"/>
+        </p>
+        <p>Pandore, c'était son nom, fut façonnée à partir de l'argile. Zeus dut demander à Héphaïstos de l'aider, et ils mirent au jour la créature la plus parfaite au monde. Ainsi, après des jours et des jours de labeur, les dieux, impatients, se pressèrent pour admirer enfin la ravissante jeune femme. Zeus avait intimé l'ordre à Athéna de lui insuffler la vie, et Pandore s'anima, gracieuse et sublime.</p>
+        <p>Mais elle ne pouvait se présenter ainsi aux hommes, et la déesse dut dissimuler sa nudité sous un voile vermeil et étincelant, alors qu'Aphrodite la parait de somptueux atours et donnait à ses traits le privilège de la beauté, auquel nul être ne saurait résister.
+          <lb/>Tous les dieux ajoutèrent à la nouvelle égérie un de leurs agréments pour atteindre à la perfection. Ainsi douée de tous les talents, elle excellait aussi dans l'art du mensonge, telle que l'avait voulu Hermès.</p>
+        <p>Zeus n'était que trop fier de son admirable créature dont la tendresse n'avait pas d'égal, et il décida de la présenter à l'homme. Or, Prométhée avait un frère, Épiméthée, connu pour être quelque peu déraisonnable. Zeus décida de lui offrir la main de la douce Pandore. À sa vue, Épiméthée fut aussitôt envoûté par le charme de cette créature. Un sentiment jusque-là inconnu l'étreignit. L'éclat du regard de la jeune femme suffisait à inspirer la passion et l'émerveillement. Elle était si somptueuse qu'il en oublia la promesse faite à son frère : il avait fait le serment à Prométhée de ne jamais accepter de présents provenant de Zeus. Mais il avait été foudroyé par l'amour et aurait donné sa vie pour passer le restant de ses jours auprès de la belle Pandore, qu'il gardait alors jalousement près de lui, loin des regards envieux des autres hommes, s'évertuant à satisfaire le moindre de ses désirs.</p>
+        <p>Avant d'envoyer Pandore sur Terre, les dieux lui avaient remis une boîte, sans lui dire ce qu'elle contenait, et ils lui ordonnèrent de ne jamais l'ouvrir. Aux côtés de son époux, Pandore jouissait de la vie et savourait son bonheur. Elle avait dissimulé la cassette des dieux, mais ses regards intrigués se portaient souvent sur elle, et comme celle-ci n'avait pas de serrure, il lui était difficile de réprimer son désir de connaître son contenu.
+          <lb/>Elle passait et repassait devant le coffret sans oser y porter la main, attirée par l'envie de lui ôter son couvercle, mais aussitôt arrêtée par le souvenir de l'interdiction formelle des dieux. Un jour, n'y tenant plus, elle s'approcha irrésistiblement de la boîte, et piquée par une trop vive curiosité, Pandore sentit grincer le délicat objet sous sa main.</p>
+        <p>À peine eut-elle entrouvert la mystérieuse boîte que tous les maux de l'humanité qu'elle renfermait s'échappèrent. Ainsi, la guerre, la maladie, le vice, la vieillesse, la perfidie, la misère et tant d'autres fléaux encore se répandirent. Figée par l'effroi, consciente de son impardonnable faute, Pandore se décida à refermer le funeste coffret, mais en vain, car tout s'était envolé…
+          <lb/>Tout, à l'exception de l'espérance qui s'éveillait lentement au fond de la boîte, fragile et solitaire.</p>
+        <p rend="left">
+          <graphic url="../Images/image004.png"/>
+        </p>
+        <p>Ainsi l'espérance peut être perçue comme un terrible mal, le plus atroce tourment que l'homme garde au fond de lui-même. Pour certains, au contraire, elle suggère que l'homme, lorsqu'il se voit frappé par le malheur, ne doit jamais perdre espoir…</p>
+    </body>
+  </text>
+</TEI>

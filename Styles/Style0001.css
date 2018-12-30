@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'OpenDyslexic3';
+  font-weight: normal;
+  font-style: normal !important;
+  src: url('../Fonts/OpenDyslexic3-Regular.ttf');
+}
+@font-face {
+  font-family: 'OpenDyslexic3';
+  font-weight: bold;
+  font-style: normal !important;
+  src: url('../Fonts/OpenDyslexic3-Bold.ttf');
+}
+
+body {
+  display: block;
+  font-family: 'OpenDyslexic3', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-style: normal !important;
+  padding: 0;
+  width: auto;
+}
+
+.chapter-title h1 {
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal !important;
+  font-family: 'OpenDyslexic3';
+  line-height: normal;
+}
+
+.chapter-content {
+  margin: 5% 10% 5% 10%;
+  font-size: 18px;
+  font-style: normal !important;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: normal;
+}
+.chapter-content p {
+  line-height: normal;
+  font-style: normal !important;
+}
+
+div.sgc-toc-title {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+div.sgc-toc-level-1 {
+  margin-left: 0em;
+}
+
+div.sgc-toc-level-2 {
+  margin-left: 2em;
+}
+
+div.sgc-toc-level-3 {
+  margin-left: 2em;
+}
+
+div.sgc-toc-level-4 {
+  margin-left: 2em;
+}
+
+div.sgc-toc-level-5 {
+  margin-left: 2em;
+}
+
+div.sgc-toc-level-6 {
+  margin-left: 2em;
+}

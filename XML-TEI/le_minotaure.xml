@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="le_minotaure" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Minotaure</title>
+        <author key="Violaine Troffigué">Violaine Troffigué</author>
+      </titleStmt>
+      <publicationStmt>
+      <p>Edité par Circonflexe, le 13 Mars 2018</p>
+      </publicationStmt>
+     <sourceDesc>
+        <bibl>Violaine Troffigué, <title>Le Minotaure</title>, illustrations par Thomas Tessier</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <creation>
+        <date when="2018"/>
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+        <head type="h1">Le Minotaure<lb/></head>
+        <p>Minos était le nom du tout-puissant roi de Crète. Les habitants de cette île charmante et ceux des îles voisines le craignaient et n'osaient aller contre ses volontés. Mais un jour, ses deux frères entreprirent de lui ravir le trône. Pour montrer à tous son très grand pouvoir, Minos pria alors Neptune, le dieu des Mers et des Océans, de lui accorder un présent. Exauçant ce vœu, Neptune fit surgir de l'écume et des vagues furieuses un taureau blanc, aussi sauvage que beau. Au comble de sa joie, le roi ne se doutait pas alors qu'il aurait à regretter cette faveur divine…</p>
+        <p>Bien des années auparavant, Minos avait épousé la fille du Soleil, la très belle Pasiphaé. Le couple avait eu plusieurs enfants et rien ne semblait devoir s'opposer au bonheur du roi, de la reine et des jeunes princes et princesses. Mais un jour, par quelque enchantement, la reine Pasiphaé s'éprit du superbe taureau blanc de son époux. Elle ne tarda pas à enfanter un monstre, mi-homme mi-taureau : le Minotaure. Bien sûr, lorsqu'il apprit cette naissance, le roi entra dans une terrible colère et, honteux, il décida de cacher l'enfant. Pour cela, il demanda à son architecte Dédale de construire un curieux palais, dont les salles et les couloirs, en nombre infini, s'entrelaçaient mystérieusement. C'est en ce lieu, appelé labyrinthe, que le Minotaure fut enfermé. Nul ne pouvait s'en échapper.</p>
+        <p>Le pouvoir de Minos ne cessait de croître. Et bientôt, ce fut le tour des Athéniens de se soumettre à l'autorité de ce roi insatiable et rageur. Minos, qui gardait une grande rancune contre ce peuple, pour un malheur survenu en leur ville, exigea qu'on lui livrât sept jeunes filles et jeunes gens tous les neuf ans. Ces jeunes personnes étaient conduites à l'intérieur du labyrinthe pour y servir de repas au Minotaure.</p>
+        <p>Un nouveau jour arriva où il fallut désigner les quatorze Athéniens qui partiraient en Crète. À la surprise de tous, un jeune homme, nommé Thésée, offrit de partir avec les victimes. Il espérait pouvoir anéantir le monstre qui demandait tant de sacrifices à Athènes. Tous acclamèrent son courage et sa générosité ; tous étaient assurés de son succès… Seul son père, le roi Égée, craignait un malheur. Avant le départ, ce père aimant fit promettre à Thésée de faire hisser des voiles blanches à son retour pour signifier qu'il était sain et sauf. Et son bateau quitta le port…</p>
+        <p rend="left">
+          <graphic url="../Images/image005.png"/>
+        </p>
+        <p>En Crète, les enfants de Minos et de Pasiphaé avaient grandi. Ariane, l'une des jeunes princesses, était devenue délicate et jolie, curieuse et volontaire. Naturellement, lorsqu'elle apprit l'arrivée des Athéniens, elle se mêla à la foule pour les apercevoir. En voyant passer Thésée, la princesse ne put s'empêcher d'admirer l'allure et le courage du jeune homme. Dès lors, elle mit tout en œuvre pour le sauver. Elle fit venir Dédale et lui demanda un moyen de sortir du labyrinthe. Puis, elle fit venir Thésée. Elle lui assura qu'elle pouvait l'aider. En échange, elle lui fit promettre de l'emmener avec lui. Alors, elle lui donna une pelote de fil.</p>
+        <p>On conduisit les Athéniens jusqu'au labyrinthe. À l'intérieur du palais, Thésée accrocha le fil d'Ariane à une extrémité de la porte puis il le déroula au fur et à mesure qu'il avançait. Il se guidait au son des râles du monstre… Il s'approcha bientôt de la chambre de Minotaure, qu'il trouva endormi. Sans attendre, Thésée leva son épée, transperça le monstre de tous côtés et le cloua au sol. Une fois le combat terminé, le jeune homme reprit la pelote à l'endroit même où il l'avait laissée. Il n'avait qu'à suivre le fil pour revenir sur ses pas et s'échapper du labyrinthe. Suivi des treize autres Athéniens, il alla rejoindre la princesse qui l'avait tant aidé, et tous se précipitèrent à bord du bateau qui s'éloigna aussitôt de la Crète.</p>
+        <p>Thésée et ses compagnons firent escale sur l'île de Naxos. Ariane, épuisée par ses aventures et le voyage en mer, songeait à sa famille, à ses amis, à sa patrie, à tout ce qu'elle avait abandonné pour sauver et suivre Thésée. Elle ne tarda pas à s'endormir…</p>
+        <p>Thésée profita de son sommeil pour délaisser la princesse, et, sans elle, il quitta Naxos et fit route vers Athènes. Mais, dans sa joie et sa précipitation, il oublia de hisser les voiles blanches comme il l'avait promis à son père. Celui-ci guettait chaque jour le retour de son fils. Aussi, fut-il submergé par la douleur lorsqu'il vit approcher le navire aux voiles sombres. Pour lui, c'était le signe de la mort de son enfant. Du haut du rocher où il se trouvait, il se jeta dans la mer, celle qui, depuis, porte son nom. En apprenant la mort de son père, Thésée se souvint de sa promesse et regretta vivement son empressement. Sa tristesse fut immense… Par la suite, il devint roi d'Athènes, un titre qu'il avait bien mérité en raison de son courage et des épreuves qu'il avait traversées.</p>
+    </body>
+  </text>
+</TEI>
